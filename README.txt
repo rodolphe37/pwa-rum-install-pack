@@ -1,7 +1,7 @@
 Here is the installation and initialization procedure of the PWA RUM template for React.js
 
 # Contents of the pwa-rum-install-pack folder:
-*You should have next to this ReadMe file you are reading,
+*You should have one copy of this ReadMe file,
 an archive in .zip format and a .sh script
 
 
@@ -13,6 +13,7 @@ Cmder is a software package created out of pure frustration over the absence of 
 
 https://cmder.net/
 
+after that, you can use the .sh file like linux user!
 
 #choice 2:
 
@@ -22,6 +23,8 @@ Git for Windows provides a BASH emulation used to run Git from the command line.
 https://www.atlassian.com/fr/git/tutorials/git-bash
 
 https://gitforwindows.org/
+
+after that, you can use the .sh file like linux user!
 
 ## LINUX & MAC USERS
 
